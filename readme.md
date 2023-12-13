@@ -1,4 +1,4 @@
-<h1 align="center">What time is it</h1>
+<h1 align="center">Multiplication Table</h1>
 
 <p align="center">
 Exclusive and free program, promoted by Google for teaching WEB technologies.
@@ -17,7 +17,7 @@ Exclusive and free program, promoted by Google for teaching WEB technologies.
 <br>
 
 <p align="center">
-  <img alt="project time" src="./imagens/whattimeis.png" width="100%">
+  <img alt="project time" src="./multiplication.png" width="100%">
 </p>
 
 ## 🚀 Technology
